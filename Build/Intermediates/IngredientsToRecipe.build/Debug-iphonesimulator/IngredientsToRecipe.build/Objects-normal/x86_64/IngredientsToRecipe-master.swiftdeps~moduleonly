@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "39efc4a13f3d0505de87c20f2d6d95e1"
+build_time: [1556842806, 249096000]
+inputs:
+  "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/IngredientsToRecipe/IngredientsToRecipe/TestRequestViewController.swift": [1556748105, 634549257]
+  "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/IngredientsToRecipe/IngredientsToRecipe/APIservice.swift": [1556842798, 387620647]
+  "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/IngredientsToRecipe/IngredientsToRecipe/AppDelegate.swift": [1556158727, 785516686]
