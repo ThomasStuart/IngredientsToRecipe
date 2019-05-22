@@ -2,19 +2,27 @@ PODS:
   - Alamofire (4.8.1)
   - AlamofireImage (3.5.0):
     - Alamofire (~> 4.8)
+  - InputBarAccessoryView (4.2.1)
+  - SwiftyJSON (4.2.0)
 
 DEPENDENCIES:
   - AlamofireImage
+  - InputBarAccessoryView
+  - SwiftyJSON
 
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
     - Alamofire
     - AlamofireImage
+    - InputBarAccessoryView
+    - SwiftyJSON
 
 SPEC CHECKSUMS:
   Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
   AlamofireImage: 1aea346f4dda2f6c67622fa5a89fcbb80d79cc16
+  InputBarAccessoryView: 37175becdced159cd9ea335f47ae001b1e112909
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
 
-PODFILE CHECKSUM: 5586451bf5e698fa28fbc6e4ff113e7df4a8cd87
+PODFILE CHECKSUM: 8512ebce6995d7e86db342701df2b472e277bee7
 
 COCOAPODS: 1.6.0

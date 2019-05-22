@@ -12,7 +12,14 @@
 		960EAD21227150890093109D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 960EAD20227150890093109D /* Assets.xcassets */; };
 		960EAD24227150890093109D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 960EAD22227150890093109D /* LaunchScreen.storyboard */; };
 		960EAD2E227150DC0093109D /* APIservice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 960EAD2D227150DC0093109D /* APIservice.swift */; };
-		960EAD30227A4B4A0093109D /* TestRequestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 960EAD2F227A4B4A0093109D /* TestRequestViewController.swift */; };
+		960EAD32227E38780093109D /* InputIngredientsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 960EAD31227E38780093109D /* InputIngredientsViewController.swift */; };
+		960EAD34227E42030093109D /* IngredientTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 960EAD33227E42030093109D /* IngredientTableViewCell.swift */; };
+		960EAD362281EDE80093109D /* ViewMealsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 960EAD352281EDE80093109D /* ViewMealsViewController.swift */; };
+		960EAD382281EF6B0093109D /* MealsViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 960EAD372281EF6B0093109D /* MealsViewCell.swift */; };
+		960EAD3A228417C00093109D /* mealData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 960EAD39228417C00093109D /* mealData.swift */; };
+		96A7BDCB2286B97F001B2E9A /* MealsDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96A7BDCA2286B97F001B2E9A /* MealsDetailsViewController.swift */; };
+		96A7BDCF228AB5F8001B2E9A /* IngredientDetailsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96A7BDCE228AB5F8001B2E9A /* IngredientDetailsTableViewCell.swift */; };
+		96A7BDD1228E3DB5001B2E9A /* InstructionsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96A7BDD0228E3DB5001B2E9A /* InstructionsTableViewCell.swift */; };
 		E60E3BF11A602D1442457361 /* Pods_IngredientsToRecipe.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 21B01B600BCE592E3535C4AD /* Pods_IngredientsToRecipe.framework */; };
 /* End PBXBuildFile section */
 
@@ -27,7 +34,14 @@
 		960EAD23227150890093109D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		960EAD25227150890093109D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		960EAD2D227150DC0093109D /* APIservice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIservice.swift; sourceTree = "<group>"; };
-		960EAD2F227A4B4A0093109D /* TestRequestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestRequestViewController.swift; sourceTree = "<group>"; };
+		960EAD31227E38780093109D /* InputIngredientsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InputIngredientsViewController.swift; sourceTree = "<group>"; };
+		960EAD33227E42030093109D /* IngredientTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IngredientTableViewCell.swift; sourceTree = "<group>"; };
+		960EAD352281EDE80093109D /* ViewMealsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewMealsViewController.swift; sourceTree = "<group>"; };
+		960EAD372281EF6B0093109D /* MealsViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealsViewCell.swift; sourceTree = "<group>"; };
+		960EAD39228417C00093109D /* mealData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mealData.swift; sourceTree = "<group>"; };
+		96A7BDCA2286B97F001B2E9A /* MealsDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealsDetailsViewController.swift; sourceTree = "<group>"; };
+		96A7BDCE228AB5F8001B2E9A /* IngredientDetailsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IngredientDetailsTableViewCell.swift; sourceTree = "<group>"; };
+		96A7BDD0228E3DB5001B2E9A /* InstructionsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstructionsTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,12 +87,19 @@
 			isa = PBXGroup;
 			children = (
 				960EAD19227150870093109D /* AppDelegate.swift */,
+				960EAD31227E38780093109D /* InputIngredientsViewController.swift */,
+				960EAD33227E42030093109D /* IngredientTableViewCell.swift */,
+				960EAD39228417C00093109D /* mealData.swift */,
+				960EAD352281EDE80093109D /* ViewMealsViewController.swift */,
+				960EAD372281EF6B0093109D /* MealsViewCell.swift */,
+				96A7BDCA2286B97F001B2E9A /* MealsDetailsViewController.swift */,
+				96A7BDCE228AB5F8001B2E9A /* IngredientDetailsTableViewCell.swift */,
+				96A7BDD0228E3DB5001B2E9A /* InstructionsTableViewCell.swift */,
 				960EAD1D227150870093109D /* Main.storyboard */,
 				960EAD20227150890093109D /* Assets.xcassets */,
 				960EAD22227150890093109D /* LaunchScreen.storyboard */,
 				960EAD25227150890093109D /* Info.plist */,
 				960EAD2D227150DC0093109D /* APIservice.swift */,
-				960EAD2F227A4B4A0093109D /* TestRequestViewController.swift */,
 			);
 			path = IngredientsToRecipe;
 			sourceTree = "<group>";
@@ -171,6 +192,8 @@
 				"${PODS_ROOT}/Target Support Files/Pods-IngredientsToRecipe/Pods-IngredientsToRecipe-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework",
 				"${BUILT_PRODUCTS_DIR}/AlamofireImage/AlamofireImage.framework",
+				"${BUILT_PRODUCTS_DIR}/InputBarAccessoryView/InputBarAccessoryView.framework",
+				"${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
@@ -178,6 +201,8 @@
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Alamofire.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/AlamofireImage.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/InputBarAccessoryView.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SwiftyJSON.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -213,8 +238,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				960EAD30227A4B4A0093109D /* TestRequestViewController.swift in Sources */,
+				96A7BDCB2286B97F001B2E9A /* MealsDetailsViewController.swift in Sources */,
+				960EAD362281EDE80093109D /* ViewMealsViewController.swift in Sources */,
+				960EAD34227E42030093109D /* IngredientTableViewCell.swift in Sources */,
+				96A7BDCF228AB5F8001B2E9A /* IngredientDetailsTableViewCell.swift in Sources */,
+				960EAD3A228417C00093109D /* mealData.swift in Sources */,
 				960EAD2E227150DC0093109D /* APIservice.swift in Sources */,
+				960EAD32227E38780093109D /* InputIngredientsViewController.swift in Sources */,
+				960EAD382281EF6B0093109D /* MealsViewCell.swift in Sources */,
+				96A7BDD1228E3DB5001B2E9A /* InstructionsTableViewCell.swift in Sources */,
 				960EAD1A227150870093109D /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

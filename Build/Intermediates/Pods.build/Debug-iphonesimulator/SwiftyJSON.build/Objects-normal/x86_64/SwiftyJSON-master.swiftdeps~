@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "8ea5f93b483a1c7ce67179820c4411cd"
+build_time: [1558491055, 553251000]
+inputs:
+  "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/IngredientsToRecipe/Pods/SwiftyJSON/Source/SwiftyJSON.swift": [1557442075, 201214826]

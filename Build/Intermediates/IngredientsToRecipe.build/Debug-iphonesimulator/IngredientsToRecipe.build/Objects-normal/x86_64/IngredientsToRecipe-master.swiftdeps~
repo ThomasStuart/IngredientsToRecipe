@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "58e4ec73f0bfc02cfcdf3a50b891afe8"
+build_time: [1558561146, 749514000]
+inputs:
+  "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/IngredientsToRecipe/IngredientsToRecipe/MealsDetailsViewController.swift": [1558491415, 619141499]
+  "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/IngredientsToRecipe/IngredientsToRecipe/ViewMealsViewController.swift": [1558488074, 871132209]
+  "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/IngredientsToRecipe/IngredientsToRecipe/IngredientTableViewCell.swift": [1557246574, 229879683]
+  "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/IngredientsToRecipe/IngredientsToRecipe/IngredientDetailsTableViewCell.swift": [1558250441, 266401349]
+  "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/IngredientsToRecipe/IngredientsToRecipe/mealData.swift": [1557885574, 497342353]
+  "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/IngredientsToRecipe/IngredientsToRecipe/APIservice.swift": [1557879721, 13916329]
+  "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/IngredientsToRecipe/IngredientsToRecipe/InputIngredientsViewController.swift": [1557389377, 245222652]
+  "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/IngredientsToRecipe/IngredientsToRecipe/MealsViewCell.swift": [1557248783, 100639971]
+  "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/IngredientsToRecipe/IngredientsToRecipe/InstructionsTableViewCell.swift": [1558054605, 706882265]
+  "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/IngredientsToRecipe/IngredientsToRecipe/AppDelegate.swift": [1556158727, 785516686]

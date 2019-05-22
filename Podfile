@@ -7,4 +7,6 @@ target 'IngredientsToRecipe' do
 
   # Pods for IngredientsToRecipe
   pod "AlamofireImage"
+  pod "InputBarAccessoryView"
+  pod "SwiftyJSON"  
 end
