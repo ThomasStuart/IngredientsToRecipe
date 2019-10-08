@@ -10,7 +10,7 @@ import UIKit
 import Alamofire
 
 //step 0: set up private key
-fileprivate let APIkey = "c1dd6b6606msh099f20a07a2831bp117e1djsndb6401443306"
+fileprivate let APIkey = "//insert your personal key here (sign up on website )"
 
 class APIservice {
 
